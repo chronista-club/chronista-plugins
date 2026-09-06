@@ -1,0 +1,18 @@
+{
+  "name": "chronista-plugins",
+  "owner": {
+    "name": "Chronista Club"
+  },
+  "plugins": [
+    {
+      "name": "chronista-style",
+      "source": {
+        "source": "github",
+        "repo": "chronista-club/plugin-chronista-style",
+        "ref": "main"
+      },
+      "description": "Chronista の開発フロー・共有スキル・検証規律"
+    }
+  ],
+  "description": "Chronista Club の開発フロー・共有スキルを配布するプラグインカタログ"
+}

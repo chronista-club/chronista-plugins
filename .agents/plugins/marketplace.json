@@ -1,0 +1,21 @@
+{
+  "name": "chronista-plugins",
+  "interface": {
+    "displayName": "Chronista Plugins"
+  },
+  "plugins": [
+    {
+      "name": "chronista-style",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/chronista-club/plugin-chronista-style.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
