@@ -1,0 +1,57 @@
+{
+  "name": "chronista-plugins",
+  "description": "Chronista Club の開発フロー・共有スキルを配布するプラグインカタログ",
+  "owner": {
+    "name": "Chronista Club"
+  },
+  "plugins": [
+    {
+      "name": "chronista-style",
+      "description": "Chronista の開発フロー・共有スキル・検証規律",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/chronista-club/plugin-chronista-style.git",
+        "sha": "69649208851e60a5157d703f454bf2e02a412313"
+      },
+      "homepage": "https://github.com/chronista-club/plugin-chronista-style",
+      "keywords": ["chronista", "workflow", "tdd", "verification"]
+    },
+    {
+      "name": "team-bucciarati",
+      "description": "調査・テスト・レビューを担う品質チーム",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/chronista-club/plugin-team-bucciarati.git",
+        "sha": "5ecd860e9aae00fd953306f9479c68b8f4b6f3ee"
+      },
+      "homepage": "https://github.com/chronista-club/plugin-team-bucciarati",
+      "keywords": ["review", "testing", "quality"]
+    },
+    {
+      "name": "vantage-point",
+      "description": "board・lane・wire と開発フロー",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/chronista-club/plugin-vantage-point.git",
+        "sha": "cc79144308921c7c89425d7af40cf9c60e5124c9"
+      },
+      "homepage": "https://github.com/chronista-club/plugin-vantage-point",
+      "keywords": ["vantage-point", "board", "lane"]
+    },
+    {
+      "name": "creo-memories",
+      "description": "セッションとホストをまたぐ外部記憶",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/chronista-club/plugin-creo-memories.git",
+        "sha": "18ad37187f5e0a2fdf240030dfc77dda1fa9cc3d"
+      },
+      "homepage": "https://github.com/chronista-club/plugin-creo-memories",
+      "keywords": ["memory", "creo"]
+    }
+  ]
+}
