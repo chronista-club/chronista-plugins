@@ -12,6 +12,33 @@
         "ref": "main"
       },
       "description": "Chronista の開発フロー・共有スキル・検証規律"
+    },
+    {
+      "name": "team-bucciarati",
+      "source": {
+        "source": "github",
+        "repo": "chronista-club/plugin-team-bucciarati",
+        "ref": "main"
+      },
+      "description": "調査・テスト・レビューを担う品質チーム"
+    },
+    {
+      "name": "vantage-point",
+      "source": {
+        "source": "github",
+        "repo": "chronista-club/plugin-vantage-point",
+        "ref": "main"
+      },
+      "description": "board・lane・wire と開発フロー"
+    },
+    {
+      "name": "creo-memories",
+      "source": {
+        "source": "github",
+        "repo": "chronista-club/plugin-creo-memories",
+        "ref": "main"
+      },
+      "description": "セッションとホストをまたぐ外部記憶"
     }
   ],
   "description": "Chronista Club の開発フロー・共有スキルを配布するプラグインカタログ"

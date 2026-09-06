@@ -16,6 +16,45 @@
         "authentication": "ON_INSTALL"
       },
       "category": "Productivity"
+    },
+    {
+      "name": "team-bucciarati",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/chronista-club/plugin-team-bucciarati.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "vantage-point",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/chronista-club/plugin-vantage-point.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "creo-memories",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/chronista-club/plugin-creo-memories.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     }
   ]
 }
