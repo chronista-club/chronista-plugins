@@ -48,7 +48,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/chronista-club/plugin-creo-memories.git",
-        "sha": "18ad37187f5e0a2fdf240030dfc77dda1fa9cc3d"
+        "sha": "c032b89423c3f9432a73fe3bb3e1f23d456f6114"
       },
       "homepage": "https://github.com/chronista-club/plugin-creo-memories",
       "keywords": ["memory", "creo"]
