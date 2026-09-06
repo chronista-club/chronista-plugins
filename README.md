@@ -26,6 +26,8 @@ codex plugin add chronista-style@chronista-plugins
 
 ### Grok Build
 
+2026-09-07: 利用者による実機テスト OK の報告を確認（公開カタログ `da160d2`）。
+
 `--trust` は hooks と MCP を動かすために必要。Grok は入れただけでは無効なので `enable` する。
 
 ```bash
