@@ -36,7 +36,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/chronista-club/plugin-vantage-point.git",
-        "sha": "cc79144308921c7c89425d7af40cf9c60e5124c9"
+        "sha": "ef957d35b46d80f63987940f5642c4afebd77620"
       },
       "homepage": "https://github.com/chronista-club/plugin-vantage-point",
       "keywords": ["vantage-point", "board", "lane"]
@@ -48,7 +48,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/chronista-club/plugin-creo-memories.git",
-        "sha": "c032b89423c3f9432a73fe3bb3e1f23d456f6114"
+        "sha": "b8d1d9695fbe869c5962a4565a8ea0143fd9278c"
       },
       "homepage": "https://github.com/chronista-club/plugin-creo-memories",
       "keywords": ["memory", "creo"]
