@@ -24,7 +24,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/chronista-club/plugin-team-bucciarati.git",
-        "sha": "5ecd860e9aae00fd953306f9479c68b8f4b6f3ee"
+        "sha": "8668e13ee7523cb6b4980dfe4c06bd46e09532a0"
       },
       "homepage": "https://github.com/chronista-club/plugin-team-bucciarati",
       "keywords": ["review", "testing", "quality"]
