@@ -61,7 +61,7 @@ Gemini 対応は対象外。
 
 利用設定の退避、旧登録の解除、新登録からの再導入、更新確認を一つの切替作業として行う。Codex の `chronista-style@personal` を利用中の場合も重複読込を確認する。
 
-新しい本体 repo を開発の正本とし、旧 repo は現状のまま残す。旧側へ新しい変更を同期する運用は行わない。
+新しい本体 repo を開発の正本とする。2026-09-07、旧カタログと移行済みの旧プラグイン 4 repo は移行案内を残して archive した。旧側へ新しい変更を同期する運用は行わない。`claude-plugin-fleetflow` は存続する。対象と確認結果は [archive 記録](docs/guide/02-legacy-repository-archive.md) を参照。
 
 ## カタログの構成
 
