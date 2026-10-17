@@ -12,7 +12,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/chronista-club/plugin-chronista-style.git",
-        "sha": "563971dc1e6141ad87fdac1293123ca8701ae206"
+        "sha": "52890b92c216f7c1772376a1e24113efbfd6686e"
       },
       "homepage": "https://github.com/chronista-club/plugin-chronista-style",
       "keywords": ["chronista", "workflow", "tdd", "verification"]
@@ -24,7 +24,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/chronista-club/plugin-team-bucciarati.git",
-        "sha": "8668e13ee7523cb6b4980dfe4c06bd46e09532a0"
+        "sha": "7a6e325594faacea44ed323ae62189934d61cf6e"
       },
       "homepage": "https://github.com/chronista-club/plugin-team-bucciarati",
       "keywords": ["review", "testing", "quality"]
