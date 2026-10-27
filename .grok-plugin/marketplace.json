@@ -12,7 +12,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/chronista-club/plugin-chronista-style.git",
-        "sha": "9d343edecfe6ec0aa79d2a78ac86cb83d81bbe46"
+        "sha": "519d26b91a24dd0796ad0a745113aa888e31e6dc"
       },
       "homepage": "https://github.com/chronista-club/plugin-chronista-style",
       "keywords": ["chronista", "workflow", "tdd", "verification"]
